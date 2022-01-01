@@ -39,7 +39,7 @@ function Projects () {
     return (
     <>
     <div className="project">
-    <h1 className="title">full stack projects</h1>
+    <h1 className="title">Full stack projects</h1>
     </div>
 
       <Wrapper>

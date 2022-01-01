@@ -14,9 +14,15 @@ code {
 
 /* my added css */
 *  {
-  background: #ffd6e0;
+  background: #141f2a;
   font-family: 'Shadows Into Light', cursive;
   box-sizing: border-box;
+  animation: fadebackground 6s infinite;
+}
+
+@keyframes fadebackground {
+  from {background-color: #23272c;}
+  to {background-color: #4e4747;}
 }
 
 @import url('https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap');
@@ -38,7 +44,11 @@ h1 {
 
 
 #myImage {
-  margin: auto 70px;
+  margin: auto 60px;
+}
+img.my-image{
+  width: 320px;
+
 }
 
 #about-container, #image-container, .education-container {
@@ -49,10 +59,12 @@ h1 {
   font-weight: bold;
   color: #660033;
   font-family: 'Shadows Into Light', cursive;
+  text-decoration: underline;
 }
 
 .name {
-  font-size: 4rem;
+  font-size: 2rem;
+  font-style: bold;
   color: #660033;
   display: flex;
   justify-content: center;
@@ -70,7 +82,7 @@ h1 {
 
 .school-name {
   font-weight: bolder;
-  color:#788b85
+  color:#660033
 }
 
 .card {
@@ -138,6 +150,10 @@ h1 {
 .nav {
   justify-content: flex-end;
   font-size: 24px;
+ 
+}
+a.nav-link{
+  color: #660033;
 }
 
 #port-icon {
@@ -253,3 +269,4 @@ h1 {
   }
   
 }
+

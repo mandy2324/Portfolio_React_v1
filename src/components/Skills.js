@@ -6,10 +6,13 @@ import { Row, Col } from 'react-bootstrap';
 function Skills() {
 return(
     <section>
+
 <div class="resume-container">
 <Row>
-    <Col lg={4} md={12}>
-    <h2 class="resume">font-end technologies</h2>
+<h1 className="title">Skills :</h1>
+    <Col lg={6} md={12}>
+
+    <h2 class="resume">Font-end technologies:</h2>
     <ul>
         <li>
             HTML
@@ -38,8 +41,8 @@ return(
     </ul>
     </Col>
 
-    <Col lg={4} md={12}>
-            <h2 class="resume">back-end technologies</h2>
+    <Col lg={6} md={12}>
+            <h2 class="resume">Back-end technologies:</h2>
                 <ul>
                     <li>
                         Node.js
@@ -62,8 +65,8 @@ return(
                 </ul>
             </Col>
 
-        <Col lg={4} md={12}>
-        <h2 class="education">my education</h2>
+        <Col lg={12} md={12}>
+        <h2 class="education underline">My Education</h2>
         <p>
           <span className="school-name">University of NC Chapel Hill </span><br></br>
           Full Stack Boot Camp - Certification 
