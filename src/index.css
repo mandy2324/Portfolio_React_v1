@@ -18,6 +18,7 @@ code {
   font-family: 'Shadows Into Light', cursive;
   box-sizing: border-box;
   animation: fadebackground 6s infinite;
+  background-image: url("./assets/images/pastel.jpg");
 }
 
 @keyframes fadebackground {
@@ -225,7 +226,7 @@ a.nav-link{
 }
 
 .my-image {
-  border-radius: 50%;
+  /* border-radius: 50%; */
   padding: 50px 50px;
 }
 
