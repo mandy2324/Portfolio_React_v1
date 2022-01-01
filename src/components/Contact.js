@@ -6,7 +6,7 @@ import Resume from '../assets/resume.pdf'
 function ContactForm() {
     return(
         <section>
-        <h1 data-testid='h1tag' className="contact">contact me</h1>
+        <h1 data-testid='h1tag' className="contact">Contact Me:</h1>
 
         <div className="contact-icons">
         <Row>

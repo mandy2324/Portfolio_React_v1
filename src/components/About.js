@@ -10,8 +10,8 @@ function About() {
         <Col lg={6} md={12}>
         <center><img src={myImage} className="my-image" alt="mandy-profile"/></center>
         <p class="name">Mandeepkaur Saini</p>
-        <p class="job">full stack web developer</p>
-        <h2 class="education">about me</h2>
+        <p class="job">Full stack web developer</p>
+        <h2 class="education">About me:</h2>
         <p>
         Hello, I'm Mandeepkaur Saini! I am passionate and solutions-driven full stack web developer with a Web Development Certificate from the University of North Carolina, Chapel Hill. 
         <br></br>

@@ -66,7 +66,7 @@ return(
             </Col>
 
         <Col lg={12} md={12}>
-        <h2 class="education underline">My Education</h2>
+        <h2 class="education underline">My Education:</h2>
         <p>
           <span className="school-name">University of NC Chapel Hill </span><br></br>
           Full Stack Boot Camp - Certification 
