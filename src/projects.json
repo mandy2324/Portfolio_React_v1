@@ -2,8 +2,8 @@
     {
         "id": 1,
         "name": "Express.js-Note-taker",
-        "image": "../assets/images/notetaker.png",
-        "github": "https://github.com/mandy2324/Express.js-Note-taker",
+        "image": "./src/assets/images/notetaker.png",
+        "github": "https://github.com/mandy2324/Express.js-Note-taker/blob/master/Assets/11-express-homework-demo-01.png",
         "deployedapp": "https://thawing-ridge-42340.herokuapp.com/notes",
         "description": "This application was created to allow users to read, write, save, and delete notes.",
         "skills": "Node | Express | AJAX | jQuery"
