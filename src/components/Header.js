@@ -6,6 +6,8 @@ import Projects from "./Projects";
 
 import Navigation from './Navbar';
 
+import ContactForm from './ContactForm';
+
 // import Resume from '../Resume';
 
 function Portfolio() {
@@ -18,7 +20,7 @@ function Portfolio() {
           case "about": 
           return <About></About>
           case "contact": 
-          return <Contact></Contact>
+          return <Contact></Contact>, <ContactForm> </ContactForm>
           case "portfolio":
           return  <Projects></Projects>
           default:
