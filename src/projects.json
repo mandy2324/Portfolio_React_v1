@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "Express.js-Note-taker",
+        "image": "./src/assets/images/notetaker.png",
+        "github": "https://github.com/mandy2324/Express.js-Note-taker/blob/master/Assets/11-express-homework-demo-01.png",
+        "deployedapp": "https://thawing-ridge-42340.herokuapp.com/notes",
+        "description": "This application was created to allow users to read, write, save, and delete notes.",
+        "skills": "Node | Express | AJAX | jQuery"
+        },
+        {
+            "id": 2,
+            "name": "Work Day Scheduler",
+            "image": "https://github.com/mandy2324/Workday-Scheduler/blob/master/Assets/05-third-party-apis-homework-demo.gif",
+            "github": "https://github.com/mandy2324/Workday-Scheduler",
+            "deployedapp": "https://mandy2324.github.io/Workday-Scheduler/",
+            "description": "This application uses third-party API and JavaScript to create a calendar-style scheduler allowing users to save events for each hour of the day.",
+            "skills": "JavaScript | jQuery | API | DOM"
+            }
+]
