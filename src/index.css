@@ -5,6 +5,14 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background: #141f2a;
+  background-image: url("./assets/images/pastel.jpg");
+
+
+}
+.flex-column{
+  display:flex;
+  flex-direction: column;
 }
 
 code {
@@ -14,11 +22,9 @@ code {
 
 /* my added css */
 *  {
-  background: #141f2a;
   font-family: 'Shadows Into Light', cursive;
   box-sizing: border-box;
-  animation: fadebackground 6s infinite;
-  background-image: url("./assets/images/pastel.jpg");
+  /* animation: fadebackground 6s infinite; */
 }
 
 @keyframes fadebackground {
