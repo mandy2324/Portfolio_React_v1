@@ -19,7 +19,7 @@ The user should clone the repository from GitHub and install dependencies. To ru
 ## Usage 
 This application will allow users view an about me page, send information through a contact form, view my projects, and view my resume.<br>
 Please view deployed application on [Git Hub Pages](https://mandy2324.github.io/portfolio_react_v1/)<br>
-<img src='.//src/assets/images/screenshot.png'>
+<img src='./src/assets/images/Screenshot.png'>
 
 ## License 
 This project is license under MIT
