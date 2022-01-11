@@ -3,7 +3,7 @@ import React, { useState } from 'react';
 import About from "./About";
 import Contact from "./Contact";
 import Projects from "./Projects";
-
+import Skills from './Skills';
 import Navigation from './Navbar';
 
 import ContactForm from './ContactForm';
@@ -23,6 +23,8 @@ function Portfolio() {
           return <Contact></Contact>, <ContactForm> </ContactForm>
           case "portfolio":
           return  <Projects></Projects>
+          case "resume":
+          return <Skills> </Skills>
           default:
             return <About></About>
         }

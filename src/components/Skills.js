@@ -1,6 +1,7 @@
 import React from 'react';
 import { Row, Col } from 'react-bootstrap'; 
 
+import Resume from '../assets/resume.pdf'
 
 
 function Skills() {
@@ -8,6 +9,9 @@ return(
     <section>
 
 <div class="resume-container">
+    <div>
+    <h1 className="title"><a href={Resume} download>Resume</a> </h1>
+    </div>
 <Row>
 <h1 className="title">Skills :</h1>
     <Col lg={6} md={12}>
@@ -77,7 +81,7 @@ return(
           <br></br>
           <br></br>
           <span className="school-name">Sardar Patel University</span><br></br>
-         Bachelor in Business Administration<br></br>
+         Bachelor of Business Administration<br></br>
           Post gard diploma in Business management<br></br>
         </p>
         </Col>
