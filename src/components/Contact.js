@@ -8,22 +8,22 @@ function ContactForm() {
         <section>
         <h1 data-testid='h1tag' className="contact">Contact Me:</h1>
 
-        <div className="contact-icons">
+        <div classNameName="contact-icons">
         <Row>
             <Col lg={3} md={12}>
-            <a href="https://github.com/mandy2324"><img src="https://img.icons8.com/doodle/100/000000/github--v1.png" alt="github-logo" class="icon"/></a><p class="icon-text">github</p>
+            <a href="https://github.com/mandy2324"><img src="https://img.icons8.com/doodle/100/000000/github--v1.png" alt="github-logo" className="icon"/></a><p className="icon-text">github</p>
             </Col>
 
             <Col lg={3} md={12}>
-            <a href="https://www.linkedin.com/in/m23saini/"><img src="https://img.icons8.com/doodle/100/000000/linkedin--v2.png" alt="linkedin-logo" class="icon"/></a><p class="icon-text">linkedin</p>
+            <a href="https://www.linkedin.com/in/m23saini/"><img src="https://img.icons8.com/doodle/100/000000/linkedin--v2.png" alt="linkedin-logo" className="icon"/></a><p className="icon-text">linkedin</p>
             </Col>
 
             <Col lg={3} md={12}>
-            <a href="mailto:m23saini@gmail.com"><img src="https://img.icons8.com/doodle/120/000000/new-post.png" alt="mail-logo"/></a><p class="icon-text">email</p>
+            <a href="mailto:m23saini@gmail.com"><img src="https://img.icons8.com/doodle/120/000000/new-post.png" alt="mail-logo"/></a><p className="icon-text">email</p>
             </Col>
 
             <Col lg={3} md={12}>
-            <a href={Resume} download><img src="https://img.icons8.com/doodle/120/000000/pdf-2.png" alt="resume" /></a><p class="icon-text">resume</p>
+            <a href={Resume} download><img src="https://img.icons8.com/doodle/120/000000/pdf-2.png" alt="resume" /></a><p className="icon-text">resume</p>
             </Col>
         </Row>
         </div>
