@@ -16,5 +16,41 @@
             "deployedapp": "https://mandy2324.github.io/Workday-Scheduler/",
             "description": "This application uses third-party API and JavaScript to create a calendar-style scheduler allowing users to save events for each hour of the day.",
             "skills": "JavaScript | jQuery | API | DOM"
-            }
+            },
+            {
+                "id": 3,
+                "name": "Weather Dashboard",
+                "image": "https://raw.githubusercontent.com/mandy2324/Weather-Dashboard/master/assets/demo.png",
+                "github": "https://github.com/mandy2324/Weather-Dashboard",
+                "deployedapp": "https://mandy2324.github.io/Weather-Dashboard/",
+                "description": "This application is retrieving data from another application's API and using it in the context of displaying weather of different cities. ",
+                "skills": "HTML | CSS  | Javascript | Api"
+                },
+                {
+                    "id": 4,
+                    "name": "Code-Quiz",
+                    "image": "https://raw.githubusercontent.com/mandy2324/Code-Quiz/master/assets/image/demo.gif",
+                    "github": "https://github.com/mandy2324/Code-Quiz",
+                    "deployedapp": "https://mandy2324.github.io/Code-Quiz/",
+                    "description": "This app will run in the browser and will feature dynamically updated HTML and CSS powered by JavaScript code. ",
+                    "skills": "HTML | CSS  | Javascript "
+                    },
+                    {
+                        "id": 5,
+                        "name": "Password Generator",
+                        "image": "https://raw.githubusercontent.com/mandy2324/Password-Generator/master/assets/images/03-javascript-homework-demo.png",
+                        "github": "https://github.com/mandy2324/Password-Generator",
+                        "deployedapp": "https://mandy2324.github.io/Password-Generator/",
+                        "description": "This an application that enables employees to generate random passwords based on criteria that they’ve selected. ",
+                        "skills": "HTML | CSS  | Javascript "
+                        }
+                    
+
+
+
+
+
+
+
+
 ]
